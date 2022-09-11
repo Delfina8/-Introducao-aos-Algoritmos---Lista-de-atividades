@@ -4,7 +4,7 @@ programa
 	inclua biblioteca Matematica
 	
 	//Programa que lê a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
-	// Delfina
+	//
 
 	
 	 
@@ -33,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 357; 
+ * @POSICAO-CURSOR = 184; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
